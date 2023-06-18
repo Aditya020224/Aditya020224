@@ -7,4 +7,4 @@
 
 
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: ☞☞[Linkedin Badge](https://img.shields.io/badge/-adityakokate-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dkteadityakokate/)
+- 📬 How to reach me: ☞☞[Let's get in touch![linkedin]
