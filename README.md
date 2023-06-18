@@ -7,4 +7,4 @@
 
 
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: ☞☞[Let's get in touch!](linkedin)
+- 📬 How to reach me: ☞☞[Let's get in touch!](https://www.linkedin.com/in/dkteadityakokate/)
