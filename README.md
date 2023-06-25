@@ -19,7 +19,7 @@
 <br/>
 
 <p align="right">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp" width="300" height="220">
 </p>
 
 
