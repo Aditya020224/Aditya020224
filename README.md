@@ -9,8 +9,8 @@
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: ☞☞[Let's get in touch!](https://www.linkedin.com/in/dkteadityakokate/)
 
-<p align="right">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp" width="300" height="220">
+<p align="centre">
+  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
 </p>
 
 ### Languages : 
