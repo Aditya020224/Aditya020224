@@ -3,12 +3,6 @@
 <!-- <h3> नमस्ते (Namaste)🙏🏻, Myself Aditya Kokate 👋</h3> -->
 ### जय श्री राम (RAM RAM)🙏🏻, Myself Aditya Kokate 👋
 [![Linkedin Badge](https://img.shields.io/badge/-adityakokate-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dkteadityakokate/)](https://www.linkedin.com/in/dkteadityakokate/)
-<a href="https://www.linkedin.com/in/dkteadityakokate/">
-  <img align="left" alt="Aditya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a link="mailto:adityakokate24@gmail.com"
-  href="https://icons8.com/icon/tnnUFgHrPmR0/gmail-logo"></a>
-</a>
 [![Gmail Badge](https://img.shields.io/badge/-adityakokate24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityakokate24@gmail.com)](mailto:adityakokate24@gmail.com) 
 
 
