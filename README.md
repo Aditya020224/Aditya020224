@@ -9,6 +9,9 @@
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: ☞☞[Let's get in touch!](https://www.linkedin.com/in/dkteadityakokate/)
 
+<p align="right">
+  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp" width="300" height="220">
+</p>
 
 ### Languages : 
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
@@ -17,11 +20,6 @@
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" >
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <br/>
-
-<p align="right">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp" width="300" height="220">
-</p>
-
 
 #### Frameworks/Platforms:
 
