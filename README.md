@@ -1,7 +1,6 @@
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l3q2XB76CaWPggiNW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/internet-computer-colorful-l3q2XB76CaWPggiNW">via GIPHY</a></p>
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 
-<!-- <h3> नमस्ते (Namaste)🙏🏻, Myself Aditya Kokate 👋</h3> -->
 ### जय श्री राम (RAM RAM)🙏🏻, Myself Aditya Kokate 👋
 [![Linkedin Badge](https://img.shields.io/badge/-adityakokate-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dkteadityakokate/)](https://www.linkedin.com/in/dkteadityakokate/)
 [![Gmail Badge](https://img.shields.io/badge/-adityakokate24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityakokate24@gmail.com)](mailto:adityakokate24@gmail.com) 
