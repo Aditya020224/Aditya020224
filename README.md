@@ -6,9 +6,7 @@
 <a href="https://www.linkedin.com/in/dkteadityakokate/">
   <img align="left" alt="Aditya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="adityakokate24@gmail.com">
-  <img align="left" alt="Aditya's Gmail" width="22px" 
-src="https://icons8.com/icon/tnnUFgHrPmR0/gmail-logo" />
+<a target="_adityakokate24@gmail.com" href="https://icons8.com/icon/tnnUFgHrPmR0/gmail-logo">Gmail</a> icon by <a target="_adityakokate24@gmail.com" href="https://icons8.com">Icons8</a>
 </a>
 [![Gmail Badge](https://img.shields.io/badge/-adityakokate24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityakokate24@gmail.com)](mailto:adityakokate24@gmail.com) 
 
