@@ -10,7 +10,7 @@
 - 📬 How to reach me: ☞☞[Let's get in touch!](https://www.linkedin.com/in/dkteadityakokate/)
 
 <p align="centre" alt="GIF">
-  <img src= "https://media.giphy.com/media/9az09tlYyYNfq/giphy.gif" width="500" height="320">
+  <img src= "https://media.giphy.com/media/zqihZZ5Qny4q4/giphy.gif" width="100" height="520">
 </p>
 
 ### Languages : 
