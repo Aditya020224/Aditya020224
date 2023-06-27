@@ -5,13 +5,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-adityakokate-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dkteadityakokate/)](https://www.linkedin.com/in/dkteadityakokate/)
 [![Gmail Badge](https://img.shields.io/badge/-adityakokate24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityakokate24@gmail.com)](mailto:adityakokate24@gmail.com) 
 
-
+<p align="centre" alt="GIF">
+  <img src= "https://media.giphy.com/media/zqihZZ5Qny4q4/giphy.gif" width="400" height="220">
+</p>
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: ☞☞[Let's get in touch!](https://www.linkedin.com/in/dkteadityakokate/)
 
-<p align="centre" alt="GIF">
-  <img src= "https://media.giphy.com/media/zqihZZ5Qny4q4/giphy.gif" width="100" height="520">
-</p>
+
 
 ### Languages : 
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
