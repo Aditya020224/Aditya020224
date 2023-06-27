@@ -1,4 +1,4 @@
-![Matrix SVG width="500" height="320"](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+![Matrix SVG, width="1000" height="320"](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 
 ### जय श्री राम (RAM RAM)🙏🏻, Myself Aditya Kokate 👋
