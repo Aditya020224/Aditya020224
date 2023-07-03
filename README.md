@@ -2,8 +2,7 @@
 
 
 ### जय श्री राम (RAM RAM)🙏🏻, Myself Aditya Kokate  <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="24" height="24" />
-#### [![Linkedin Badge](https://img.shields.io/badge/-adityakokate-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dkteadityakokate/)] 
-    (https://www.linkedin.com/in/dkteadityakokate/)
+[![Linkedin Badge](https://img.shields.io/badge/-adityakokate-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dkteadityakokate/)]    (https://www.linkedin.com/in/dkteadityakokate/)
 [![Gmail Badge](https://img.shields.io/badge/-adityakokate24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityakokate24@gmail.com)](mailto:adityakokate24@gmail.com) 
 
 <img align="right" alt="GIF" src= "https://media.giphy.com/media/zqihZZ5Qny4q4/giphy.gif" width="500" height="220" />
