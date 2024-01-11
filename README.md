@@ -4,14 +4,23 @@
 <h2 align="center">Hello!<img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="40" height="40" /> Nice to Meet U 
   Myself Aditya Kokate</h2> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-adityakokate-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dkteadityakokate/)](https://www.linkedin.com/in/dkteadityakokate/)
-[![Gmail Badge](https://img.shields.io/badge/-adityakokate24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityakokate24@gmail.com)](mailto:adityakokate24@gmail.com) 
-
 <img align="right" alt="GIF" src= "https://user-images.githubusercontent.com/68998355/110694804-1ac26580-820f-11eb-8bcf-2b93f48bce92.gif" align="right" width="300" />
+<p> 
+  <em>
+    <b>I'm a friendly Neighbourhood Developer</b>😉 &  <b>Learning Enthusiast</b>&nbsp;👩‍💻 </br>Who is <b>obsessed</b>
+    with coding and <b>improvising</b> skills & logic-building. 
+  </em>  
+</p>
 
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: ☞☞[Let's get in touch!](https://www.linkedin.com/in/dkteadityakokate/)
+<br>
 
+- I’m  currently learning **ML** with Python & **AI**
+- Goals 🌱  for 2024: Is to enhance coding skills & Build some projects in ML and AI.
+- I belive that a perfect workout routine💪 can be the ultimate solution for my stress.
+!---You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.---!
+
+!-- <img alt="GIF" src="medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.--!>
+<br>
 
 
 ### Languages : 
@@ -41,8 +50,13 @@
 
 <h3 align="center">Top langs :tongue:</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya020224&langs_count=10&theme=radical&layout=compact" alt="Aditya020224 :: Top Langs" width="500" height="300" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya020224&langs_count=10&theme=dracula&layout=compact" alt="Aditya020224 :: Top Langs" width="500" height="300" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+-💬 Ask me about anything, I am happy to help :smile:
+-📬 Let's Connect !! <img src='https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif' width='auto' height='50' >
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aditya020224&show_icons=true&theme=merko&layout=compact" alt="Aditya020224 :: Profile Stats" /></p>
+<p align="center"> 
+&nbsp; <a href="https://www.linkedin.com/in//dkteadityakokate/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="40" /></a>
+&nbsp; <a href="mailto:adityakokate24@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="40" /></a>
+
+</p>
