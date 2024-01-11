@@ -41,5 +41,8 @@
 
 <h3 align="center">Top langs :tongue:</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya020224&langs_count=10&theme=merko&layout=compact" alt="Aditya020224 :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya020224&langs_count=10&theme=radical&layout=compact" alt="Aditya020224 :: Top Langs" width="500" height="300" /></p>
 
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aditya020224&show_icons=true&theme=merko&layout=compact" alt="Aditya020224 :: Profile Stats" /></p>
