@@ -1,8 +1,7 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 
-<h2 align="center">Hello!<img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="40" height="40" /> Nice to Meet U 
-  Myself Aditya Kokate</h2> 
+<h2 align="center">Hello!<img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="40" height="40" />, I'm Aditya </h2> 
 
 <img align="right" alt="GIF" src= "https://user-images.githubusercontent.com/68998355/110694804-1ac26580-820f-11eb-8bcf-2b93f48bce92.gif" align="right" width="300" />
 <p> 
@@ -14,14 +13,9 @@
 
 <br>
 
-- I’m  currently learning **ML** with Python & **AI**
-- Goals 🌱  for 2024: Is to enhance coding skills & Build some projects in ML and AI.
-- I belive that a perfect workout routine💪 can be the ultimate solution for my stress.
-!---You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.---!
-
-!-- <img alt="GIF" src="medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.--!>
-<br>
-
+  - I’m  currently learning **ML** with Python & **AI**
+  - Goals 🌱  for 2024: Is to enhance coding skills & Build some projects in ML and AI.
+  - I belive that a perfect workout routine💪 can be the ultimate solution for my stress.
 
 ### Languages : 
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
