@@ -1,7 +1,8 @@
-![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+<![Matrix SVG](src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="90" height="100" />)
 
 
-<h1 align="center">Hello!<img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="35" height="40" /> Nice to Meet U --> Myself Aditya Kokate</h1> 
+<h2 align="center">Hello!<img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="40" height="40" /> Nice to Meet U 
+  Myself Aditya Kokate</h2> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-adityakokate-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dkteadityakokate/)](https://www.linkedin.com/in/dkteadityakokate/)
 [![Gmail Badge](https://img.shields.io/badge/-adityakokate24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityakokate24@gmail.com)](mailto:adityakokate24@gmail.com) 
