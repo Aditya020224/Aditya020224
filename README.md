@@ -19,9 +19,13 @@
   <br>
   - <b>I belive that a perfect workout routine💪 can be the ultimate solution for my stress</b>.
   <br>
+  -💬 Ask me about anything, I am happy to help :smile:
+  <br>
 </em>
 
-### Languages : 
+
+### Languages :
+
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img align="left" alt="PHP" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" >
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" >
@@ -38,6 +42,7 @@
 <br/>  
 
 ### Data and Tools :
+
 <img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> 
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
@@ -50,7 +55,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya020224&langs_count=10&theme=dracula&layout=compact" alt="Aditya020224 :: Top Langs" width="450" height="230" /></p>
 
--💬 Ask me about anything, I am happy to help :smile:
+
 -📬 Let's Connect !! <img src='https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif' width='44' height='48' >
 
 <p align="center"> 
