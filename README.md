@@ -14,8 +14,11 @@
 <br>
 <em>
   - <b>I’m  currently learning **ML** with Python & **AI**</b>
+  <br>
   - <b>Goals 🌱  for 2024: Is to enhance coding skills & Build some projects in ML and AI</b>.
+  <br>
   - <b>I belive that a perfect workout routine💪 can be the ultimate solution for my stress</b>.
+  <br>
 </em>
 
 ### Languages : 
