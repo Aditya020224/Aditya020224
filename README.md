@@ -12,10 +12,11 @@
 </p>
 
 <br>
-
-  - I’m  currently learning **ML** with Python & **AI**
-  - Goals 🌱  for 2024: Is to enhance coding skills & Build some projects in ML and AI.
-  - I belive that a perfect workout routine💪 can be the ultimate solution for my stress.
+<em>
+  - <b>I’m  currently learning **ML** with Python & **AI**</b>
+  - <b>Goals 🌱  for 2024: Is to enhance coding skills & Build some projects in ML and AI</b>.
+  - <b>I belive that a perfect workout routine💪 can be the ultimate solution for my stress</b>.
+</em>
 
 ### Languages : 
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
