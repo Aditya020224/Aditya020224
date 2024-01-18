@@ -56,7 +56,8 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya020224&langs_count=10&theme=dracula&layout=compact" alt="Aditya020224 :: Top Langs" width="450" height="230" /></p>
 
 <p align="center"> 
-<h2>Let's Connect !!</h2><img src='https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif' width='50' height='20' >
+<h2>Let's Connect !! <img src='https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif' width='50' height='20' ></h2>
+</p>
 
 <p align="center"> 
 &nbsp; <a href="https://www.linkedin.com/in//dkteadityakokate/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
