@@ -51,14 +51,14 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br/>
 
-<h3 align="center">Top langs :tongue:</h3>
+<h2 align="center">Top langs :tongue:</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya020224&langs_count=10&theme=dracula&layout=compact" alt="Aditya020224 :: Top Langs" width="450" height="230" /></p>
 
-<h3 align="center">Let's Connect !! <img src='https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif' width='50' height='20' ></h3>
+<h2 align="center">Let's Connect !! <img src='https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif' width='50' height='20' ></h2>
 
 <p align="center"> 
-&nbsp; <a href="https://www.linkedin.com/in//dkteadityakokate/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:adityakokate24@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in//dkteadityakokate/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="55" /></a>
+&nbsp; <a href="mailto:adityakokate24@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="55" /></a>
 
 </p>
