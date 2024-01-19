@@ -51,7 +51,7 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br/>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aditya020224&repo=github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aditya020224&repo=github-readme-stats)(https://github.com/Aditya020224/github-readme-stats)
 
 <h2 align="center">Top langs :tongue:</h2>
 
