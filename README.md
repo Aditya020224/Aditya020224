@@ -54,7 +54,7 @@
 <h2 align="center">Top langs :tongue:</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya020224&langs_count=10&theme=dracula&layout=donutchart" alt="Aditya020224 :: Top Langs" width="450" height="230" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya020224&langs_count=10&theme=dracula&layout=donut" alt="Aditya020224 :: Top Langs" width="450" height="230" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya020224&theme=radical&exclude_days=Sun" alt="GitHub Streak" />
 </p>
 
