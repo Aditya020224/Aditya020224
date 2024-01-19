@@ -52,13 +52,11 @@
 <br/>
 
 
-<h2 align="center">Top langs :tongue:</h2>
+<h2 align="center">Top langs 😃:</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya020224&langs_count=10&theme=dracula&layout=donut" alt="Aditya020224 :: Top Langs" width="450" height="230" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya020224&langs_count=10&theme=radical&layout=donut" alt="Aditya020224 :: Top Langs" width="450" height="230" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya020224&theme=radical&exclude_days=Sun" alt="GitHub Streak" />
-
-  ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya020224&show_icons=true&theme=radical)
 </p>
 
 
