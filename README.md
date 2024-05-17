@@ -61,7 +61,7 @@
 
 <p > 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aditya020224&title=commits"/> 
+    <img src="https://github-profile-trophy.vercel.app/?username=Aditya020224&title=commit"/> 
   </a>
 </p>
 
