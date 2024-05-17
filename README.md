@@ -59,7 +59,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya020224&theme=radical" alt="GitHub Streak" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aditya020224&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p > 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Aditya020224&theme=onedark" alt="Aditya020224" /> 
+  </a>
+</p>
 
 
 
