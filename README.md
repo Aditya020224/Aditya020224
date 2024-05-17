@@ -59,11 +59,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya020224&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p > 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aditya020224&title=commit"/> 
-  </a>
-</p>
 
 
 
