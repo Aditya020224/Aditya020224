@@ -56,7 +56,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya020224&langs_count=10&theme=radical&layout=donut" alt="Aditya020224 :: Top Langs" width="450" height="230" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya020224&theme=radical" alt="GitHub Streak"/>
 </p>
 
 
