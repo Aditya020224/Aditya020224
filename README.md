@@ -56,10 +56,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya020224&langs_count=10&theme=radical&layout=donut" alt="Aditya020224 :: Top Langs" width="450" height="230" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya020224&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya020224&theme=radical" alt="GitHub Streak"/>
 </p>
-
-
 
 
 <h2 align="center">Let's Connect !! <img src='https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif' width='50' height='20' ></h2>
